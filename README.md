@@ -34,6 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+
 When cliking on the text field, the Decimal Pad did not pop up.
 I figured out the solution: simulator window -> [Hardware] -> [Keyboard] ->[Toggle Software Keyboard].
 
